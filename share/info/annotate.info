@@ -1,12 +1,12 @@
 This is annotate.info, produced by makeinfo version 4.8 from
-../../../gdb-7.12.1/gdb/doc/annotate.texinfo.
+../../../gdb-7.11/gdb/doc/annotate.texinfo.
 
 INFO-DIR-SECTION Software development
 START-INFO-DIR-ENTRY
 * Annotate: (annotate).                 The obsolete annotation interface.
 END-INFO-DIR-ENTRY
 
-   Copyright (C) 1994-2017 Free Software Foundation, Inc.
+   Copyright (C) 1994-2016 Free Software Foundation, Inc.
 
    Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3 or
@@ -17,7 +17,7 @@ Free Documentation License".
 
    This file documents GDB's obsolete annotations.
 
-   Copyright (C) 1994-2017 Free Software Foundation, Inc.
+   Copyright (C) 1994-2016 Free Software Foundation, Inc.
 
    Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3 or
@@ -1170,21 +1170,21 @@ permit their use in free software.
 
 
 Tag Table:
-Node: Top1198
-Node: Annotations Overview2368
-Node: Limitations4167
-Node: Migrating to GDB/MI6752
-Node: Server Prefix7135
-Node: Value Annotations7781
-Node: Frame Annotations10951
-Node: Displays14850
-Node: Prompting15881
-Node: Errors17384
-Node: Breakpoint Info18274
-Node: Invalidation19499
-Node: Annotations for Running19978
-Node: Source Annotations21491
-Node: Multi-threaded Apps22437
-Node: GNU Free Documentation License23046
+Node: Top1196
+Node: Annotations Overview2366
+Node: Limitations4165
+Node: Migrating to GDB/MI6750
+Node: Server Prefix7133
+Node: Value Annotations7779
+Node: Frame Annotations10949
+Node: Displays14848
+Node: Prompting15879
+Node: Errors17382
+Node: Breakpoint Info18272
+Node: Invalidation19497
+Node: Annotations for Running19976
+Node: Source Annotations21489
+Node: Multi-threaded Apps22435
+Node: GNU Free Documentation License23044
 
 End Tag Table
